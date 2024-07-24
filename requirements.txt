@@ -6,4 +6,5 @@ PyPDF2
 chromadb
 faiss-cpu
 pdf2image
-sqlite3
+# sqlite3 # sqlite3 is included in the Python standard library, so it doesn't need to be installed separately via pip.
+
